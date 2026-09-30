@@ -27,7 +27,7 @@ It is important to use environment variables instead of hard-coding for multiple
 
 Keeping these microservices seperate allows for the code to scale easily and healthily. It puts up a wall between services to ensure that any errors in service A, will effect service B. When these services are run on different servers, this allows horizontal scaling by giving the ability to increase number of resources for any given link in the chain. If one services logic requires more work, you can easily scale at that instance without adding costs for other services.
 
-## Associated Repositaries
+## Associated Repositories
 
 - [Order Service](https://github.com/macl0379/store-front)
 - [Product Service](https://github.com/macl0379/product-service)
