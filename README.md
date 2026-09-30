@@ -29,6 +29,6 @@ Keeping these microservices seperate allows for the code to scale easily and hea
 
 ## Associated Repositaries
 
--(Order Service)[https://github.com/macl0379/store-front]
--(Product Service)[https://github.com/macl0379/product-service]
--(Store front)[https://github.com/macl0379/store-front]
+- (Order Service)[https://github.com/macl0379/store-front]
+- (Product Service)[https://github.com/macl0379/product-service]
+- (Store front)[https://github.com/macl0379/store-front]
